@@ -1,4 +1,4 @@
-# Fundamentos de JavaSrcipt
+# Fundamentos de JavaScript
 
 Conocer la sintaxis de JavaScript y sus bases
 
