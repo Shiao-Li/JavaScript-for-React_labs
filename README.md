@@ -1,4 +1,4 @@
-# Fundamentos de JavaScript
+# Asincronismo
 
 Conocer la sintaxis de JavaScript y sus bases
 
