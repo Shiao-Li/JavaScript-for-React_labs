@@ -1,4 +1,4 @@
-# Fundamentos de JavaScript
+# Manipulación del DOM
 
 Conocer la sintaxis de JavaScript y sus bases
 
