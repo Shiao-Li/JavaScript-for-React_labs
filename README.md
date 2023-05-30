@@ -1,4 +1,4 @@
-# Asincronismo
+# API and Local Storage
 
 Conocer la sintaxis de JavaScript y sus bases
 
