@@ -1,4 +1,4 @@
-# Asincronismo
+# Modules
 
 Conocer la sintaxis de JavaScript y sus bases
 
